@@ -1,10 +1,10 @@
-# skeleton
+# FileUpload
 
-> A Vue.js project
+> A Vue.js example project integrating Firebase, auth, storage and database
 
 ## Build Setup
 
-``` bash
+```bash
 # install dependencies
 npm install
 
